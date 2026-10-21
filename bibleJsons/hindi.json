@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "bname": "Genesis",
+      "bname": "उत्पत्ति",
       "bnumber": 1,
       "chapters": [
         {
@@ -10995,7 +10995,7 @@
       ]
     },
     {
-      "bname": "Exodus",
+      "bname": "निर्गमन",
       "bnumber": 2,
       "chapters": [
         {
@@ -19671,7 +19671,7 @@
       ]
     },
     {
-      "bname": "Leviticus",
+      "bname": "लैव्यव्यवस्था",
       "bnumber": 3,
       "chapters": [
         {
@@ -25804,7 +25804,7 @@
       ]
     },
     {
-      "bname": "Numbers",
+      "bname": "गिनती",
       "bnumber": 4,
       "chapters": [
         {
@@ -34999,7 +34999,7 @@
       ]
     },
     {
-      "bname": "Deuteronomy",
+      "bname": "व्यवस्थाविवरण",
       "bnumber": 5,
       "chapters": [
         {
@@ -41881,7 +41881,7 @@
       ]
     },
     {
-      "bname": "Joshua",
+      "bname": "यहोशू",
       "bnumber": 6,
       "chapters": [
         {
@@ -46613,7 +46613,7 @@
       ]
     },
     {
-      "bname": "Judges",
+      "bname": "न्यायियों",
       "bnumber": 7,
       "chapters": [
         {
@@ -51036,7 +51036,7 @@
       ]
     },
     {
-      "bname": "Ruth",
+      "bname": "रूत",
       "bnumber": 8,
       "chapters": [
         {
@@ -51664,7 +51664,7 @@
       ]
     },
     {
-      "bname": "1 Samuel",
+      "bname": "1 शमूएल",
       "bnumber": 9,
       "chapters": [
         {
@@ -57488,7 +57488,7 @@
       ]
     },
     {
-      "bname": "2 Samuel",
+      "bname": "2 शमूएल",
       "bnumber": 10,
       "chapters": [
         {
@@ -62472,7 +62472,7 @@
       ]
     },
     {
-      "bname": "1 Kings",
+      "bname": "1 राजा",
       "bnumber": 11,
       "chapters": [
         {
@@ -68328,7 +68328,7 @@
       ]
     },
     {
-      "bname": "2 Kings",
+      "bname": "2 राजा",
       "bnumber": 12,
       "chapters": [
         {
@@ -73499,7 +73499,7 @@
       ]
     },
     {
-      "bname": "1 Chronicles",
+      "bname": "1 इतिहास",
       "bnumber": 13,
       "chapters": [
         {
@@ -80251,7 +80251,7 @@
       ]
     },
     {
-      "bname": "2 Chronicles",
+      "bname": "2 इतिहास",
       "bnumber": 14,
       "chapters": [
         {
@@ -86205,7 +86205,7 @@
       ]
     },
     {
-      "bname": "Ezra",
+      "bname": "एज्रा",
       "bnumber": 15,
       "chapters": [
         {
@@ -88221,7 +88221,7 @@
       ]
     },
     {
-      "bname": "Nehemiah",
+      "bname": "नहेमायाह",
       "bnumber": 16,
       "chapters": [
         {
@@ -91134,7 +91134,7 @@
       ]
     },
     {
-      "bname": "Esther",
+      "bname": "एस्तेर",
       "bnumber": 17,
       "chapters": [
         {
@@ -92359,7 +92359,7 @@
       ]
     },
     {
-      "bname": "Job",
+      "bname": "अय्यूब",
       "bnumber": 18,
       "chapters": [
         {
@@ -100072,7 +100072,7 @@
       ]
     },
     {
-      "bname": "Psalm",
+      "bname": "भजन संहिता",
       "bnumber": 19,
       "chapters": [
         {
@@ -118062,7 +118062,7 @@
       ]
     },
     {
-      "bname": "Proverbs",
+      "bname": "नीतिवचन",
       "bnumber": 20,
       "chapters": [
         {
@@ -124628,7 +124628,7 @@
       ]
     },
     {
-      "bname": "Ecclesiastes",
+      "bname": "सभोपदेशक",
       "bnumber": 21,
       "chapters": [
         {
@@ -126248,7 +126248,7 @@
       ]
     },
     {
-      "bname": "Song of Solomon",
+      "bname": "श्रेष्ठगीत",
       "bnumber": 22,
       "chapters": [
         {
@@ -127120,7 +127120,7 @@
       ]
     },
     {
-      "bname": "Isaiah",
+      "bname": "यशायाह",
       "bnumber": 23,
       "chapters": [
         {
@@ -136479,7 +136479,7 @@
       ]
     },
     {
-      "bname": "Jeremiah",
+      "bname": "यिर्मयाह",
       "bnumber": 24,
       "chapters": [
         {
@@ -146279,7 +146279,7 @@
       ]
     },
     {
-      "bname": "Lamentations",
+      "bname": "विलापगीत",
       "bnumber": 25,
       "chapters": [
         {
@@ -147381,7 +147381,7 @@
       ]
     },
     {
-      "bname": "Ezekiel",
+      "bname": "यहेजकेल",
       "bnumber": 26,
       "chapters": [
         {
@@ -156517,7 +156517,7 @@
       ]
     },
     {
-      "bname": "Daniel",
+      "bname": "दानिय्येल",
       "bnumber": 27,
       "chapters": [
         {
@@ -159075,7 +159075,7 @@
       ]
     },
     {
-      "bname": "Hosea",
+      "bname": "होशे",
       "bnumber": 28,
       "chapters": [
         {
@@ -160530,7 +160530,7 @@
       ]
     },
     {
-      "bname": "Joel",
+      "bname": "योएल",
       "bnumber": 29,
       "chapters": [
         {
@@ -161062,7 +161062,7 @@
       ]
     },
     {
-      "bname": "Amos",
+      "bname": "आमोस",
       "bnumber": 30,
       "chapters": [
         {
@@ -162135,7 +162135,7 @@
       ]
     },
     {
-      "bname": "Obadiah",
+      "bname": "ओबद्याह",
       "bnumber": 31,
       "chapters": [
         {
@@ -162293,7 +162293,7 @@
       ]
     },
     {
-      "bname": "Jonah",
+      "bname": "योना",
       "bnumber": 32,
       "chapters": [
         {
@@ -162655,7 +162655,7 @@
       ]
     },
     {
-      "bname": "Micah",
+      "bname": "मीका",
       "bnumber": 33,
       "chapters": [
         {
@@ -163431,7 +163431,7 @@
       ]
     },
     {
-      "bname": "Nahum",
+      "bname": "नहूम",
       "bnumber": 34,
       "chapters": [
         {
@@ -163781,7 +163781,7 @@
       ]
     },
     {
-      "bname": "Habakkuk",
+      "bname": "हबक्कूक",
       "bnumber": 35,
       "chapters": [
         {
@@ -164194,7 +164194,7 @@
       ]
     },
     {
-      "bname": "Zephaniah",
+      "bname": "सपन्याह",
       "bnumber": 36,
       "chapters": [
         {
@@ -164586,7 +164586,7 @@
       ]
     },
     {
-      "bname": "Haggai",
+      "bname": "हाग्गै",
       "bnumber": 37,
       "chapters": [
         {
@@ -164868,7 +164868,7 @@
       ]
     },
     {
-      "bname": "Zechariah",
+      "bname": "जकर्याह",
       "bnumber": 38,
       "chapters": [
         {
@@ -166421,7 +166421,7 @@
       ]
     },
     {
-      "bname": "Malachi",
+      "bname": "मलाकी",
       "bnumber": 39,
       "chapters": [
         {
@@ -166832,7 +166832,7 @@
       ]
     },
     {
-      "bname": "Matthew",
+      "bname": "मत्ती",
       "bnumber": 40,
       "chapters": [
         {
@@ -174482,7 +174482,7 @@
       ]
     },
     {
-      "bname": "Mark",
+      "bname": "मरकुस",
       "bnumber": 41,
       "chapters": [
         {
@@ -179307,7 +179307,7 @@
       ]
     },
     {
-      "bname": "Luke",
+      "bname": "लूका",
       "bnumber": 42,
       "chapters": [
         {
@@ -187511,7 +187511,7 @@
       ]
     },
     {
-      "bname": "John",
+      "bname": "यूहन्ना",
       "bnumber": 43,
       "chapters": [
         {
@@ -193775,7 +193775,7 @@
       ]
     },
     {
-      "bname": "Acts",
+      "bname": "प्रेरितों के काम",
       "bnumber": 44,
       "chapters": [
         {
@@ -200956,7 +200956,7 @@
       ]
     },
     {
-      "bname": "Romans",
+      "bname": "रोमियों",
       "bnumber": 45,
       "chapters": [
         {
@@ -204073,7 +204073,7 @@
       ]
     },
     {
-      "bname": "1 Corinthians",
+      "bname": "1 कुरिन्थियों",
       "bnumber": 46,
       "chapters": [
         {
@@ -207218,7 +207218,7 @@
       ]
     },
     {
-      "bname": "2 Corinthians",
+      "bname": "2 कुरिन्थियों",
       "bnumber": 47,
       "chapters": [
         {
@@ -209088,7 +209088,7 @@
       ]
     },
     {
-      "bname": "Galatians",
+      "bname": "गलतियों",
       "bnumber": 48,
       "chapters": [
         {
@@ -210167,7 +210167,7 @@
       ]
     },
     {
-      "bname": "Ephesians",
+      "bname": "इफिसियों",
       "bnumber": 49,
       "chapters": [
         {
@@ -211288,7 +211288,7 @@
       ]
     },
     {
-      "bname": "Philippians",
+      "bname": "फिलिप्पियों",
       "bnumber": 50,
       "chapters": [
         {
@@ -212035,7 +212035,7 @@
       ]
     },
     {
-      "bname": "Colossians",
+      "bname": "कुलुस्सियों",
       "bnumber": 51,
       "chapters": [
         {
@@ -212726,7 +212726,7 @@
       ]
     },
     {
-      "bname": "1 Thessalonians",
+      "bname": "1 थिस्सलुनीकियों",
       "bnumber": 52,
       "chapters": [
         {
@@ -213380,7 +213380,7 @@
       ]
     },
     {
-      "bname": "2 Thessalonians",
+      "bname": "2 थिस्सलुनीकियों",
       "bnumber": 53,
       "chapters": [
         {
@@ -213730,7 +213730,7 @@
       ]
     },
     {
-      "bname": "1 Timothy",
+      "bname": "1 तीमुथियुस",
       "bnumber": 54,
       "chapters": [
         {
@@ -214557,7 +214557,7 @@
       ]
     },
     {
-      "bname": "2 Timothy",
+      "bname": "2 तीमुथियुस",
       "bnumber": 55,
       "chapters": [
         {
@@ -215164,7 +215164,7 @@
       ]
     },
     {
-      "bname": "Titus",
+      "bname": "तीतुस",
       "bnumber": 56,
       "chapters": [
         {
@@ -215507,7 +215507,7 @@
       ]
     },
     {
-      "bname": "Philemon",
+      "bname": "फिलेमोन",
       "bnumber": 57,
       "chapters": [
         {
@@ -215693,7 +215693,7 @@
       ]
     },
     {
-      "bname": "Hebrews",
+      "bname": "इब्रानियों",
       "bnumber": 58,
       "chapters": [
         {
@@ -217871,7 +217871,7 @@
       ]
     },
     {
-      "bname": "James",
+      "bname": "याकूब",
       "bnumber": 59,
       "chapters": [
         {
@@ -218651,7 +218651,7 @@
       ]
     },
     {
-      "bname": "1 Peter",
+      "bname": "1 पतरस",
       "bnumber": 60,
       "chapters": [
         {
@@ -219410,7 +219410,7 @@
       ]
     },
     {
-      "bname": "2 Peter",
+      "bname": "2 पतरस",
       "bnumber": 61,
       "chapters": [
         {
@@ -219858,7 +219858,7 @@
       ]
     },
     {
-      "bname": "1 John",
+      "bname": "1 यूहन्ना",
       "bnumber": 62,
       "chapters": [
         {
@@ -220624,7 +220624,7 @@
       ]
     },
     {
-      "bname": "2 John",
+      "bname": "2 यूहन्ना",
       "bnumber": 63,
       "chapters": [
         {
@@ -220726,7 +220726,7 @@
       ]
     },
     {
-      "bname": "3 John",
+      "bname": "3 यूहन्ना",
       "bnumber": 64,
       "chapters": [
         {
@@ -220835,7 +220835,7 @@
       ]
     },
     {
-      "bname": "Jude",
+      "bname": "यहूदा",
       "bnumber": 65,
       "chapters": [
         {
@@ -221021,7 +221021,7 @@
       ]
     },
     {
-      "bname": "Revelation",
+      "bname": "प्रकाशितवाक्य",
       "bnumber": 66,
       "chapters": [
         {

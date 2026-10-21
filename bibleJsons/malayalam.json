@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "bname": "Genesis",
+      "bname": "ഉല്പത്തി",
       "bnumber": 1,
       "chapters": [
         {
@@ -10911,7 +10911,7 @@
       ]
     },
     {
-      "bname": "Exodus",
+      "bname": "പുറപ്പാട്",
       "bnumber": 2,
       "chapters": [
         {
@@ -19587,7 +19587,7 @@
       ]
     },
     {
-      "bname": "Leviticus",
+      "bname": "ലേവ്യപുസ്തകം",
       "bnumber": 3,
       "chapters": [
         {
@@ -25629,7 +25629,7 @@
       ]
     },
     {
-      "bname": "Numbers",
+      "bname": "സംഖ്യാപുസ്തകം",
       "bnumber": 4,
       "chapters": [
         {
@@ -34796,7 +34796,7 @@
       ]
     },
     {
-      "bname": "Deuteronomy",
+      "bname": "ആവർത്തനം",
       "bnumber": 5,
       "chapters": [
         {
@@ -41559,7 +41559,7 @@
       ]
     },
     {
-      "bname": "Joshua",
+      "bname": "യോശുവ",
       "bnumber": 6,
       "chapters": [
         {
@@ -46256,7 +46256,7 @@
       ]
     },
     {
-      "bname": "Judges",
+      "bname": "ന്യായാധിപന്മാർ",
       "bnumber": 7,
       "chapters": [
         {
@@ -50679,7 +50679,7 @@
       ]
     },
     {
-      "bname": "Ruth",
+      "bname": "രൂത്ത്",
       "bnumber": 8,
       "chapters": [
         {
@@ -51300,7 +51300,7 @@
       ]
     },
     {
-      "bname": "1 Samuel",
+      "bname": "1 ശമൂവേൽ",
       "bnumber": 9,
       "chapters": [
         {
@@ -57110,7 +57110,7 @@
       ]
     },
     {
-      "bname": "2 Samuel",
+      "bname": "2 ശമൂവേൽ",
       "bnumber": 10,
       "chapters": [
         {
@@ -62080,7 +62080,7 @@
       ]
     },
     {
-      "bname": "1 Kings",
+      "bname": "1 രാജാക്കന്മാർ",
       "bnumber": 11,
       "chapters": [
         {
@@ -67894,7 +67894,7 @@
       ]
     },
     {
-      "bname": "2 Kings",
+      "bname": "2 രാജാക്കന്മാർ",
       "bnumber": 12,
       "chapters": [
         {
@@ -73044,7 +73044,7 @@
       ]
     },
     {
-      "bname": "1 Chronicles",
+      "bname": "1 ദിനവൃത്താന്തം",
       "bnumber": 13,
       "chapters": [
         {
@@ -79733,7 +79733,7 @@
       ]
     },
     {
-      "bname": "2 Chronicles",
+      "bname": "2 ദിനവൃത്താന്തം",
       "bnumber": 14,
       "chapters": [
         {
@@ -85638,7 +85638,7 @@
       ]
     },
     {
-      "bname": "Ezra",
+      "bname": "എസ്രാ",
       "bnumber": 15,
       "chapters": [
         {
@@ -87633,7 +87633,7 @@
       ]
     },
     {
-      "bname": "Nehemiah",
+      "bname": "നെഹെമ്യാവു",
       "bnumber": 16,
       "chapters": [
         {
@@ -90518,7 +90518,7 @@
       ]
     },
     {
-      "bname": "Esther",
+      "bname": "എസ്ഥേർ",
       "bnumber": 17,
       "chapters": [
         {
@@ -91729,7 +91729,7 @@
       ]
     },
     {
-      "bname": "Job",
+      "bname": "ഇയ്യോബ്",
       "bnumber": 18,
       "chapters": [
         {
@@ -99421,7 +99421,7 @@
       ]
     },
     {
-      "bname": "Psalm",
+      "bname": "സങ്കീർത്തനങ്ങൾ",
       "bnumber": 19,
       "chapters": [
         {
@@ -117579,7 +117579,7 @@
       ]
     },
     {
-      "bname": "Proverbs",
+      "bname": "സദൃശ്യവാക്യങ്ങൾ",
       "bnumber": 20,
       "chapters": [
         {
@@ -124145,7 +124145,7 @@
       ]
     },
     {
-      "bname": "Ecclesiastes",
+      "bname": "സഭാപ്രസംഗി",
       "bnumber": 21,
       "chapters": [
         {
@@ -125737,7 +125737,7 @@
       ]
     },
     {
-      "bname": "Song of Solomon",
+      "bname": "ഉത്തമഗീതം",
       "bnumber": 22,
       "chapters": [
         {
@@ -126595,7 +126595,7 @@
       ]
     },
     {
-      "bname": "Isaiah",
+      "bname": "യെശയ്യാവു",
       "bnumber": 23,
       "chapters": [
         {
@@ -135926,7 +135926,7 @@
       ]
     },
     {
-      "bname": "Jeremiah",
+      "bname": "യിരെമ്യാവു",
       "bnumber": 24,
       "chapters": [
         {
@@ -145943,7 +145943,7 @@
       ]
     },
     {
-      "bname": "Lamentations",
+      "bname": "വിലാപങ്ങൾ",
       "bnumber": 25,
       "chapters": [
         {
@@ -147052,7 +147052,7 @@
       ]
     },
     {
-      "bname": "Ezekiel",
+      "bname": "യെഹെസ്കേൽ",
       "bnumber": 26,
       "chapters": [
         {
@@ -156167,7 +156167,7 @@
       ]
     },
     {
-      "bname": "Daniel",
+      "bname": "ദാനീയേൽ",
       "bnumber": 27,
       "chapters": [
         {
@@ -158711,7 +158711,7 @@
       ]
     },
     {
-      "bname": "Hosea",
+      "bname": "ഹോശേയ",
       "bnumber": 28,
       "chapters": [
         {
@@ -160166,7 +160166,7 @@
       ]
     },
     {
-      "bname": "Joel",
+      "bname": "യോവേൽ",
       "bnumber": 29,
       "chapters": [
         {
@@ -160698,7 +160698,7 @@
       ]
     },
     {
-      "bname": "Amos",
+      "bname": "ആമോസ്",
       "bnumber": 30,
       "chapters": [
         {
@@ -161757,7 +161757,7 @@
       ]
     },
     {
-      "bname": "Obadiah",
+      "bname": "ഒബദ്യാവു",
       "bnumber": 31,
       "chapters": [
         {
@@ -161915,7 +161915,7 @@
       ]
     },
     {
-      "bname": "Jonah",
+      "bname": "യോനാ",
       "bnumber": 32,
       "chapters": [
         {
@@ -162277,7 +162277,7 @@
       ]
     },
     {
-      "bname": "Micah",
+      "bname": "മീഖാ",
       "bnumber": 33,
       "chapters": [
         {
@@ -163053,7 +163053,7 @@
       ]
     },
     {
-      "bname": "Nahum",
+      "bname": "നാഹൂം",
       "bnumber": 34,
       "chapters": [
         {
@@ -163396,7 +163396,7 @@
       ]
     },
     {
-      "bname": "Habakkuk",
+      "bname": "ഹബക്കൂക്ക്",
       "bnumber": 35,
       "chapters": [
         {
@@ -163809,7 +163809,7 @@
       ]
     },
     {
-      "bname": "Zephaniah",
+      "bname": "സെഫന്യാവു",
       "bnumber": 36,
       "chapters": [
         {
@@ -164201,7 +164201,7 @@
       ]
     },
     {
-      "bname": "Haggai",
+      "bname": "ഹഗ്ഗായി",
       "bnumber": 37,
       "chapters": [
         {
@@ -164483,7 +164483,7 @@
       ]
     },
     {
-      "bname": "Zechariah",
+      "bname": "സെഖര്യാവു",
       "bnumber": 38,
       "chapters": [
         {
@@ -166036,7 +166036,7 @@
       ]
     },
     {
-      "bname": "Malachi",
+      "bname": "മലാഖി",
       "bnumber": 39,
       "chapters": [
         {
@@ -166447,7 +166447,7 @@
       ]
     },
     {
-      "bname": "Matthew",
+      "bname": "മത്തായി",
       "bnumber": 40,
       "chapters": [
         {
@@ -174055,7 +174055,7 @@
       ]
     },
     {
-      "bname": "Mark",
+      "bname": "മാർക്കോസ്",
       "bnumber": 41,
       "chapters": [
         {
@@ -178831,7 +178831,7 @@
       ]
     },
     {
-      "bname": "Luke",
+      "bname": "ലൂക്കോസ്",
       "bnumber": 42,
       "chapters": [
         {
@@ -186930,7 +186930,7 @@
       ]
     },
     {
-      "bname": "John",
+      "bname": "യോഹന്നാൻ",
       "bnumber": 43,
       "chapters": [
         {
@@ -193103,7 +193103,7 @@
       ]
     },
     {
-      "bname": "Acts",
+      "bname": "അപ്പൊസ്തലപ്രവൃത്തികൾ",
       "bnumber": 44,
       "chapters": [
         {
@@ -200235,7 +200235,7 @@
       ]
     },
     {
-      "bname": "Romans",
+      "bname": "റോമർ",
       "bnumber": 45,
       "chapters": [
         {
@@ -203324,7 +203324,7 @@
       ]
     },
     {
-      "bname": "1 Corinthians",
+      "bname": "1 കൊരിന്ത്യർ",
       "bnumber": 46,
       "chapters": [
         {
@@ -206448,7 +206448,7 @@
       ]
     },
     {
-      "bname": "2 Corinthians",
+      "bname": "2 കൊരിന്ത്യർ",
       "bnumber": 47,
       "chapters": [
         {
@@ -208290,7 +208290,7 @@
       ]
     },
     {
-      "bname": "Galatians",
+      "bname": "ഗലാത്യർ",
       "bnumber": 48,
       "chapters": [
         {
@@ -209362,7 +209362,7 @@
       ]
     },
     {
-      "bname": "Ephesians",
+      "bname": "എഫേസ്യർ",
       "bnumber": 49,
       "chapters": [
         {
@@ -210462,7 +210462,7 @@
       ]
     },
     {
-      "bname": "Philippians",
+      "bname": "ഫിലിപ്പിയർ",
       "bnumber": 50,
       "chapters": [
         {
@@ -211216,7 +211216,7 @@
       ]
     },
     {
-      "bname": "Colossians",
+      "bname": "കൊലൊസ്സ്യർ",
       "bnumber": 51,
       "chapters": [
         {
@@ -211886,7 +211886,7 @@
       ]
     },
     {
-      "bname": "1 Thessalonians",
+      "bname": "1 തെസ്സലോനിക്ക്യർ",
       "bnumber": 52,
       "chapters": [
         {
@@ -212533,7 +212533,7 @@
       ]
     },
     {
-      "bname": "2 Thessalonians",
+      "bname": "2 തെസ്സലോനിക്ക്യർ",
       "bnumber": 53,
       "chapters": [
         {
@@ -212883,7 +212883,7 @@
       ]
     },
     {
-      "bname": "1 Timothy",
+      "bname": "1 തിമൊഥെയോസ്",
       "bnumber": 54,
       "chapters": [
         {
@@ -213710,7 +213710,7 @@
       ]
     },
     {
-      "bname": "2 Timothy",
+      "bname": "2 തിമൊഥെയോസ്",
       "bnumber": 55,
       "chapters": [
         {
@@ -214310,7 +214310,7 @@
       ]
     },
     {
-      "bname": "Titus",
+      "bname": "തീത്തൊസ്",
       "bnumber": 56,
       "chapters": [
         {
@@ -214646,7 +214646,7 @@
       ]
     },
     {
-      "bname": "Philemon",
+      "bname": "ഫിലേമോൻ",
       "bnumber": 57,
       "chapters": [
         {
@@ -214832,7 +214832,7 @@
       ]
     },
     {
-      "bname": "Hebrews",
+      "bname": "എബ്രായർ",
       "bnumber": 58,
       "chapters": [
         {
@@ -217010,7 +217010,7 @@
       ]
     },
     {
-      "bname": "James",
+      "bname": "യാക്കോബ്",
       "bnumber": 59,
       "chapters": [
         {
@@ -217790,7 +217790,7 @@
       ]
     },
     {
-      "bname": "1 Peter",
+      "bname": "1 പത്രോസ്",
       "bnumber": 60,
       "chapters": [
         {
@@ -218556,7 +218556,7 @@
       ]
     },
     {
-      "bname": "2 Peter",
+      "bname": "2 പത്രോസ്",
       "bnumber": 61,
       "chapters": [
         {
@@ -218997,7 +218997,7 @@
       ]
     },
     {
-      "bname": "1 John",
+      "bname": "1 യോഹന്നാൻ",
       "bnumber": 62,
       "chapters": [
         {
@@ -219763,7 +219763,7 @@
       ]
     },
     {
-      "bname": "2 John",
+      "bname": "2 യോഹന്നാൻ",
       "bnumber": 63,
       "chapters": [
         {
@@ -219865,7 +219865,7 @@
       ]
     },
     {
-      "bname": "3 John",
+      "bname": "3 യോഹന്നാൻ",
       "bnumber": 64,
       "chapters": [
         {
@@ -219981,7 +219981,7 @@
       ]
     },
     {
-      "bname": "Jude",
+      "bname": "യൂദാ",
       "bnumber": 65,
       "chapters": [
         {
@@ -220160,7 +220160,7 @@
       ]
     },
     {
-      "bname": "Revelation",
+      "bname": "വെളിപ്പാട്",
       "bnumber": 66,
       "chapters": [
         {
