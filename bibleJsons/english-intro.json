@@ -1,0 +1,530 @@
+[
+  {
+    "bnumber": 1,
+    "bname": "Genesis",
+    "description": "Genesis is the first of Moses's five books. It describes the creation of the world, the fall of man, the great flood, and God's covenant with His chosen people, Israel, through the lives of Abraham, Isaac, Jacob, and Joseph.",
+    "author": "Moses",
+    "timeline": "c. 1446–1406 BC (Events: Creation to c. 1805 BC)",
+    "situation": "Written by Moses during the wilderness journey as the Israelites prepared to enter Canaan, establishing their origins, God's covenant with Abraham, and their identity as God's chosen people."
+  },
+  {
+    "bnumber": 2,
+    "bname": "Exodus",
+    "description": "Exodus details the miraculous deliverance of the Israelites from Egyptian bondage, the giving of the Law including the Ten Commandments at Mount Sinai, and the construction of the Tabernacle for God's dwelling.",
+    "author": "Moses",
+    "timeline": "c. 1446–1406 BC (Events: c. 1525–1445 BC)",
+    "situation": "Written to record the miraculous redemption of Israel from Egyptian slavery, the establishment of the Mosaic Covenant at Mount Sinai, and the construction of the Tabernacle."
+  },
+  {
+    "bnumber": 3,
+    "bname": "Leviticus",
+    "description": "Leviticus serves as a holiness code detailing worship rituals, sacrifices, priestly duties, and regulations for daily holy living to maintain fellowship with God.",
+    "author": "Moses",
+    "timeline": "c. 1445 BC",
+    "situation": "Given at Mount Sinai to instruct a newly redeemed nation in holy living, ritual purity, priestly responsibilities, and sacrifices necessary to fellowship with a holy God."
+  },
+  {
+    "bnumber": 4,
+    "bname": "Numbers",
+    "description": "Numbers documents the wilderness journey of the Israelites from Mount Sinai toward the Promised Land, including two censuses and their 40 years of wandering resulting from unbelief at Kadesh-barnea.",
+    "author": "Moses",
+    "timeline": "c. 1444–1406 BC",
+    "situation": "Records Israel's 40-year wandering due to unbelief at Kadesh-barnea, detailing the death of the rebellious generation and the preparation of the new generation to enter Canaan."
+  },
+  {
+    "bnumber": 5,
+    "bname": "Deuteronomy",
+    "description": "Deuteronomy is a collection of Moses's farewell speeches delivered on the plains of Moab, renewing God's covenant and repeating the Law for the new generation prior to entering Canaan.",
+    "author": "Moses (with concluding additions by Joshua/scribe)",
+    "timeline": "c. 1406 BC",
+    "situation": "Delivered as a series of farewell addresses by Moses on the plains of Moab to renew God's covenant with the new generation before they entered the Promised Land."
+  },
+  {
+    "bnumber": 6,
+    "bname": "Joshua",
+    "description": "Joshua records the conquest of the land of Canaan under Joshua's leadership, the fall of Jericho, and the division of the Promised Land among the 12 tribes of Israel.",
+    "author": "Joshua (with additions by Phinehas/Eleazar)",
+    "timeline": "c. 1400–1370 BC (Events: c. 1406–1375 BC)",
+    "situation": "Written to document God's faithfulness in granting military victory over the Canaanites and distributing the land among the twelve tribes as promised."
+  },
+  {
+    "bnumber": 7,
+    "bname": "Judges",
+    "description": "Judges outlines the cyclical pattern of Israel's sin, oppression by enemies, cries to God, and deliverance through appointed leaders (judges) during the era before Israel had a king.",
+    "author": "Samuel (traditionally)",
+    "timeline": "c. 1050–1000 BC (Events: c. 1375–1050 BC)",
+    "situation": "Written during the early monarchy to contrast Israel's dark cycles of idolatry and social decay under tribal judges with the need for a righteous king."
+  },
+  {
+    "bnumber": 8,
+    "bname": "Ruth",
+    "description": "Set during the period of the judges, Ruth tells the story of a Moabite woman's faithful love, her redemption by Boaz, and her placement in the ancestral lineage of King David.",
+    "author": "Samuel (traditionally)",
+    "timeline": "c. 1011–931 BC (Events: c. 1150–1100 BC)",
+    "situation": "Set during the chaotic era of the judges to demonstrate personal loyalty, God's providence, and the ancestral lineage of King David through a faithful Gentile woman."
+  },
+  {
+    "bnumber": 9,
+    "bname": "1 Samuel",
+    "description": "1 Samuel records Israel's transition from a loose tribal confederacy under judges to a unified kingdom, focusing on Samuel the prophet, Saul the first king, and the rise of David.",
+    "author": "Samuel, Gad, and Nathan",
+    "timeline": "c. 930–722 BC (Events: c. 1105–1010 BC)",
+    "situation": "Records Israel's political shift from judges to a monarchy under King Saul and the subsequent elevation of David as God's chosen king."
+  },
+  {
+    "bnumber": 10,
+    "bname": "2 Samuel",
+    "description": "2 Samuel details King David's 40-year reign over unified Israel, the establishment of Jerusalem as capital, the Davidic covenant, and the triumphs and trials of his life.",
+    "author": "Nathan and Gad",
+    "timeline": "c. 930–722 BC (Events: c. 1010–970 BC)",
+    "situation": "Chronicles King David's reign, the establishment of the Davidic covenant, Jerusalem becoming the capital, and the tragic consequences of David's personal sin."
+  },
+  {
+    "bnumber": 11,
+    "bname": "1 Kings",
+    "description": "1 Kings traces the golden age of Solomon, the building of the Temple, the division of the kingdom into Israel (North) and Judah (South) due to idolatry, and Elijah's prophetic ministry.",
+    "author": "Jeremiah (traditionally) or an anonymous exile",
+    "timeline": "c. 560–538 BC (Events: c. 970–850 BC)",
+    "situation": "Written to explain to the Babylonian exiles how Solomon's glory devolved into idolatry, resulting in the kingdom splitting into Israel and Judah."
+  },
+  {
+    "bnumber": 12,
+    "bname": "2 Kings",
+    "description": "2 Kings documents the spiritual decline of both kingdoms, culminating in the fall of Israel to Assyria in 722 BC and the fall of Judah to Babylon in 586 BC.",
+    "author": "Jeremiah (traditionally) or an anonymous exile",
+    "timeline": "c. 560–538 BC (Events: c. 850–560 BC)",
+    "situation": "Explains to the exiles that persistent covenant unfaithfulness and idolatry directly caused the falls of Samaria (722 BC) and Jerusalem (586 BC)."
+  },
+  {
+    "bnumber": 13,
+    "bname": "1 Chronicles",
+    "description": "1 Chronicles provides a priestly perspective on Israel's history, starting with genealogies from Adam and focusing on King David's worship arrangements and Temple preparations.",
+    "author": "Ezra (traditionally)",
+    "timeline": "c. 450–400 BC (Events: Adam to c. 970 BC)",
+    "situation": "Written for post-exilic Jewish returnees to rebuild their spiritual identity, emphasizing the Davidic royal lineage and proper Temple worship."
+  },
+  {
+    "bnumber": 14,
+    "bname": "2 Chronicles",
+    "description": "2 Chronicles continues Judah's royal history from Solomon's temple-building reign to the Babylonian captivity and King Cyrus's decree of restoration.",
+    "author": "Ezra (traditionally)",
+    "timeline": "c. 450–400 BC (Events: c. 970–538 BC)",
+    "situation": "Retells Judah's history to post-exilic returnees, emphasizing that humbly seeking God leads to revival and divine blessing."
+  },
+  {
+    "bnumber": 15,
+    "bname": "Ezra",
+    "description": "Ezra details the return of Jewish exiles from Babylon to Jerusalem, the rebuilding of the Second Temple under Zerubbabel, and the spiritual reforms led by Ezra.",
+    "author": "Ezra",
+    "timeline": "c. 450–400 BC (Events: c. 538–450 BC)",
+    "situation": "Chronicles the return of Jewish exiles from Persian captivity, the reconstruction of the Second Temple, and Ezra's work in restoring adherence to the Law."
+  },
+  {
+    "bnumber": 16,
+    "bname": "Nehemiah",
+    "description": "Nehemiah records the rebuilding of Jerusalem's city walls in 52 days despite fierce opposition, along with Nehemiah's courageous leadership and social reforms.",
+    "author": "Nehemiah",
+    "timeline": "c. 430–400 BC (Events: c. 445–432 BC)",
+    "situation": "Records Nehemiah's leadership in rebuilding Jerusalem's broken walls in 52 days amidst intense opposition, followed by community reform and covenant renewal."
+  },
+  {
+    "bnumber": 17,
+    "bname": "Esther",
+    "description": "Esther details how God's unseen providence delivered the Jews in Persia from Haman's genocidal plot through Queen Esther and Mordecai, establishing the feast of Purim.",
+    "author": "Mordecai (traditionally) or an anonymous Persian-Jewish author",
+    "timeline": "c. 460–400 BC (Events: c. 483–473 BC)",
+    "situation": "Set in Susa under Persian rule to record how God's unseen providence saved Jewish exiles from annihilation, originating the annual celebration of Purim."
+  },
+  {
+    "bnumber": 18,
+    "bname": "Job",
+    "description": "Job explores the problem of innocent suffering, divine justice, and God's sovereignty through Job's intense trials, debates with friends, and direct encounter with God.",
+    "author": "Anonymous (traditionally suggested to be Moses, Job, or Elihu)",
+    "timeline": "Patriarchal era setting (c. 2000–1800 BC); compiled c. 1000–600 BC",
+    "situation": "Addresses the universal dilemma of righteous suffering and God's sovereignty through Job's trials, flawed human theology, and God's ultimate answer."
+  },
+  {
+    "bnumber": 19,
+    "bname": "Psalms",
+    "description": "Psalms is Israel's inspired songbook and prayer collection containing 150 poetic compositions of praise, lament, thanksgiving, repentance, and Messianic prophecies.",
+    "author": "David, Asaph, the sons of Korah, Solomon, Moses, Ethan, and anonymous authors",
+    "timeline": "c. 1440–430 BC (Compiled c. 400 BC)",
+    "situation": "Serves as Israel's hymnbook and prayer collection spanning centuries of national life for public worship, personal lament, royal coronations, and thanksgiving."
+  },
+  {
+    "bnumber": 20,
+    "bname": "Proverbs",
+    "description": "Proverbs offers practical wisdom sayings, largely by King Solomon, emphasizing that 'the fear of the LORD is the beginning of wisdom' and offering principles for daily moral living.",
+    "author": "Solomon, Agur, King Lemuel, and other sages",
+    "timeline": "c. 970–686 BC",
+    "situation": "Written to instruct youth and leaders in practical wisdom, godly discernment, and moral integrity based on reverence for the Lord."
+  },
+  {
+    "bnumber": 21,
+    "bname": "Ecclesiastes",
+    "description": "Ecclesiastes presents the philosophical reflections of 'the Preacher' on the meaning of life, concluding that earthly pursuits without God are vanity, and fearing God is man's whole duty.",
+    "author": "Solomon ('The Preacher')",
+    "timeline": "c. 935 BC",
+    "situation": "Reflections of an aging king contemplating earthly achievements and pleasures, declaring life 'under the sun' meaningless without reverence and obedience to God."
+  },
+  {
+    "bnumber": 22,
+    "bname": "Song of Solomon",
+    "description": "Song of Solomon is a poetic celebration of romantic love, courtship, and marital intimacy between a bride and her bridegroom.",
+    "author": "Solomon",
+    "timeline": "c. 970–930 BC",
+    "situation": "A lyric poem celebrating marital love, romantic desire, and emotional fidelity, highlighting God's design for human romance."
+  },
+  {
+    "bnumber": 23,
+    "bname": "Isaiah",
+    "description": "Isaiah warns Judah of judgment for idolatry while presenting profound prophecies about the birth, suffering, and saving work of the coming Messiah.",
+    "author": "Isaiah son of Amoz",
+    "timeline": "c. 740–680 BC",
+    "situation": "Prophesied to Judah during the threat of Assyrian expansion, warning against trusting foreign alliances while foretelling exile and Messianic redemption."
+  },
+  {
+    "bnumber": 24,
+    "bname": "Jeremiah",
+    "description": "Jeremiah, the 'weeping prophet,' warned Judah of judgment before the Babylonian fall, calling for repentance and proclaiming the coming of a New Covenant.",
+    "author": "Jeremiah (recorded by Baruch)",
+    "timeline": "c. 627–580 BC",
+    "situation": "Ministered in Jerusalem during its decline and fall to Babylon, pleading for repentance and declaring judgment alongside the promise of a New Covenant."
+  },
+  {
+    "bnumber": 25,
+    "bname": "Lamentations",
+    "description": "Lamentations comprises five acrostic poems mourning the destruction of Jerusalem and the Temple in 586 BC while affirming hope in God's unfailing mercies.",
+    "author": "Jeremiah (traditionally)",
+    "timeline": "c. 586–585 BC",
+    "situation": "Written immediately following Jerusalem's destruction by Babylon as acrostic poems expressing grief while affirming faith in God's faithfulness."
+  },
+  {
+    "bnumber": 26,
+    "bname": "Ezekiel",
+    "description": "Ezekiel delivered vivid prophetic visions to Jewish exiles in Babylon, detailing God's judgment on sin and promising spiritual rebirth and national restoration.",
+    "author": "Ezekiel son of Buzi",
+    "timeline": "c. 593–571 BC",
+    "situation": "Prophesied to Jewish exiles in Babylon, explaining the causes of Jerusalem's destruction while offering visions of future restoration and spiritual renewal."
+  },
+  {
+    "bnumber": 27,
+    "bname": "Daniel",
+    "description": "Daniel combines court stories of faithfulness—such as the lion's den—with apocalyptic visions showing God's supreme sovereignty over all human kingdoms.",
+    "author": "Daniel",
+    "timeline": "c. 605–530 BC",
+    "situation": "Written from the Babylonian and Persian royal courts to encourage exiles that God rules supreme over worldly empires and will set up an everlasting kingdom."
+  },
+  {
+    "bnumber": 28,
+    "bname": "Hosea",
+    "description": "Hosea's marriage to an unfaithful wife, Gomer, serves as a living illustration of Israel's spiritual adultery and God's relentless, redeeming love for His people.",
+    "author": "Hosea son of Beeri",
+    "timeline": "c. 755–715 BC",
+    "situation": "Prophesied to Northern Israel before the Assyrian conquest, using his marriage to unfaithful Gomer to depict God's unfailing covenant love."
+  },
+  {
+    "bnumber": 29,
+    "bname": "Joel",
+    "description": "Joel uses a devastating locust plague to warn of the coming 'Day of the LORD,' calling for deep repentance and promising the future outpouring of the Holy Spirit.",
+    "author": "Joel son of Pethuel",
+    "timeline": "c. 835 BC or c. 500 BC (debated)",
+    "situation": "Used a severe locust plague in Judah to foreshadow the 'Day of the LORD,' urging repentance and foretelling the outpouring of God's Spirit."
+  },
+  {
+    "bnumber": 30,
+    "bname": "Amos",
+    "description": "Amos, a shepherd from Judah, was sent to Northern Israel to denounce social injustice, oppression of the poor, and hypocritical religious ritualism.",
+    "author": "Amos",
+    "timeline": "c. 760–750 BC",
+    "situation": "Sent to Northern Israel during a time of material prosperity to denounce social injustice, economic exploitation, and empty religious observance."
+  },
+  {
+    "bnumber": 31,
+    "bname": "Obadiah",
+    "description": "Obadiah, the shortest Old Testament book, declares divine judgment on the nation of Edom for its arrogance and violence against Judah during Jerusalem's fall.",
+    "author": "Obadiah",
+    "timeline": "c. 586 BC (or c. 845 BC)",
+    "situation": "Pronounced judgment against Edom for gloating over Jerusalem's destruction, promising divine justice and the ultimate victory of Zion."
+  },
+  {
+    "bnumber": 32,
+    "bname": "Jonah",
+    "description": "Jonah recounts a reluctant prophet's mission to Nineveh, illustrating God's broad mercy toward repentant Gentiles after Jonah is swallowed by a great fish.",
+    "author": "Jonah son of Amittai",
+    "timeline": "c. 780–750 BC",
+    "situation": "Recounts Jonah's mission to Nineveh, exposing Israelite prejudice and demonstrating God's global compassion for all repentant nations."
+  },
+  {
+    "bnumber": 33,
+    "bname": "Micah",
+    "description": "Micah condemned corruption and injustice in Israel and Judah, foretelling Messianic restoration and predicting the Messiah's birth in Bethlehem.",
+    "author": "Micah of Moresheth",
+    "timeline": "c. 735–700 BC",
+    "situation": "Prophesied to Israel and Judah against social oppression, calling for justice and humility while foretelling the Messiah's birth in Bethlehem."
+  },
+  {
+    "bnumber": 34,
+    "bname": "Nahum",
+    "description": "Nahum predicts the complete overthrow of Nineveh, the brutal capital of the Assyrian Empire, affirming God's justice against oppressive nations.",
+    "author": "Nahum of Elkosh",
+    "timeline": "c. 660–612 BC",
+    "situation": "Delivered to Judah to announce the imminent downfall of oppressive Assyria, offering comfort to those who suffered under its tyranny."
+  },
+  {
+    "bnumber": 35,
+    "bname": "Habakkuk",
+    "description": "Habakkuk engages in a dialogue with God questioning why evil goes unpunished, concluding with the declaration that 'the just shall live by his faith.'",
+    "author": "Habakkuk",
+    "timeline": "c. 612–589 BC",
+    "situation": "A dialogue between prophet and God questioning why wickedness persisted in Judah and why Babylon was used for judgment, resolving in quiet trust."
+  },
+  {
+    "bnumber": 36,
+    "bname": "Zephaniah",
+    "description": "Zephaniah warns of the sweeping 'Day of the LORD' against idolatry and sin while offering promises of restoration for a humble remnant.",
+    "author": "Zephaniah son of Cushi",
+    "timeline": "c. 640–621 BC (Reign of Josiah)",
+    "situation": "Warned Judah of impending judgment due to rampant idolatry, promising purification and ultimate joy for a humble remnant."
+  },
+  {
+    "bnumber": 37,
+    "bname": "Haggai",
+    "description": "Haggai delivered messages urging the returned Jewish exiles to stop neglecting the Second Temple and complete its construction.",
+    "author": "Haggai",
+    "timeline": "c. 520 BC",
+    "situation": "Challenged post-exilic returnees who prioritized personal home building over finishing the Second Temple, urging them to rebuild for God's glory."
+  },
+  {
+    "bnumber": 38,
+    "bname": "Zechariah",
+    "description": "Zechariah encouraged the Temple builders through symbolic night visions and rich prophecies regarding the first and second comings of the Messiah.",
+    "author": "Zechariah son of Berechiah",
+    "timeline": "c. 520–480 BC",
+    "situation": "Partnered with Haggai to encourage the post-exilic Temple builders through apocalyptic visions and detailed prophecies of the Messiah."
+  },
+  {
+    "bnumber": 39,
+    "bname": "Malachi",
+    "description": "Malachi, the final Old Testament prophet, rebuked a spiritually complacent community and announced the coming messenger who would prepare the Lord's way.",
+    "author": "Malachi",
+    "timeline": "c. 433–400 BC",
+    "situation": "Rebuked post-exilic Judah for spiritual apathy, corrupt priesthood, and unfaithfulness, predicting a messenger to prepare the way of the Lord."
+  },
+  {
+    "bnumber": 40,
+    "bname": "Matthew",
+    "description": "Matthew opens the New Testament by presenting Jesus as the promised Jewish Messiah, King, and fulfillment of Old Testament prophecy.",
+    "author": "Matthew (Levi)",
+    "timeline": "c. AD 50–65",
+    "situation": "Written to Jewish-Christian audiences to demonstrate that Jesus of Nazareth is the promised Messiah, King of David's line, and fulfillment of Scripture."
+  },
+  {
+    "bnumber": 41,
+    "bname": "Mark",
+    "description": "Mark is the fast-paced Gospel depicting Jesus as the obedient, suffering Servant of God who acts with authority and gives His life as a ransom.",
+    "author": "John Mark (recording Peter's eyewitness testimony)",
+    "timeline": "c. AD 55–65",
+    "situation": "Written for Roman Christians facing persecution, presenting Jesus as the action-oriented Servant of God who suffered for humanity."
+  },
+  {
+    "bnumber": 42,
+    "bname": "Luke",
+    "description": "Luke, written by a Gentile physician, provides an orderly historical account emphasizing Jesus's compassion, humanity, and salvation for all people.",
+    "author": "Luke the physician",
+    "timeline": "c. AD 60–62",
+    "situation": "Written for Theophilus and Gentile believers as an orderly historical narrative showcasing Jesus as the compassionate Savior of all people."
+  },
+  {
+    "bnumber": 43,
+    "bname": "John",
+    "description": "John presents Jesus as the eternal Word (Logos) made flesh, the Son of God who performs signs so that readers may believe and have eternal life.",
+    "author": "John the Apostle (son of Zebedee)",
+    "timeline": "c. AD 85–95",
+    "situation": "Written to establish that Jesus is the incarnate Son of God, encouraging readers to believe and obtain eternal life through His name."
+  },
+  {
+    "bnumber": 44,
+    "bname": "Acts",
+    "description": "Acts chronicles the birth of the early Church through the Holy Spirit's power and the expansion of the Gospel from Jerusalem to Rome.",
+    "author": "Luke the physician",
+    "timeline": "c. AD 62–64",
+    "situation": "Records the Holy Spirit's empowerment of the early Church to spread the Gospel from Jerusalem throughout Judea, Samaria, and the Roman Empire."
+  },
+  {
+    "bnumber": 45,
+    "bname": "Romans",
+    "description": "Romans is Paul's theological masterpiece, systematically detailing justification by faith, the Gospel of grace, and unity between Jews and Gentiles.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 57 (from Corinth)",
+    "situation": "Written to the church in Rome to outline the theology of salvation by faith, promote Jew-Gentile unity, and prepare for his visit."
+  },
+  {
+    "bnumber": 46,
+    "bname": "1 Corinthians",
+    "description": "1 Corinthians addresses divisions, moral failures, disorderly worship, misuse of spiritual gifts, and doctrinal errors regarding the resurrection in Corinth.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 55 (from Ephesus)",
+    "situation": "Written to correct factions, moral laxity, court cases, worship disorders, and misunderstandings about spiritual gifts and resurrection in Corinth."
+  },
+  {
+    "bnumber": 47,
+    "bname": "2 Corinthians",
+    "description": "2 Corinthians is Paul's defense of his apostolic authority against false teachers, highlighting strength through weakness and the ministry of reconciliation.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 55–56 (from Macedonia)",
+    "situation": "Defends Paul's apostolic integrity against false teachers ('super-apostles') in Corinth, encouraging generosity and comfort in trials."
+  },
+  {
+    "bnumber": 48,
+    "bname": "Galatians",
+    "description": "Galatians defends salvation by grace alone through faith in Christ apart from the legalistic works of the Mosaic Law.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 48–49 (from Antioch)",
+    "situation": "Written to Galatian churches to counter Judaizers who claimed Gentiles must keep the Mosaic Law for salvation, upholding justification by faith alone."
+  },
+  {
+    "bnumber": 49,
+    "bname": "Ephesians",
+    "description": "Ephesians explores the mystery of the Church as Christ's body, unity in Christ, holy living, and putting on the spiritual armor of God.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 60–62 (from Roman imprisonment)",
+    "situation": "A circular letter detailing the believer's spiritual blessings in Christ, church unity, daily Christian conduct, and spiritual warfare."
+  },
+  {
+    "bnumber": 50,
+    "bname": "Philippians",
+    "description": "Philippians is a letter of joy and gratitude written from prison, urging believers to maintain unity, humility, and rejoicing in Christ regardless of trials.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 60–62 (from Roman imprisonment)",
+    "situation": "An affectionate letter thanking the Philippians for their financial support, encouraging joy in suffering, humility, and perseverance."
+  },
+  {
+    "bnumber": 51,
+    "bname": "Colossians",
+    "description": "Colossians exalts the supremacy, deity, and sufficiency of Jesus Christ over all creation and spiritual powers, refuting deceptive philosophies.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 60–62 (from Roman imprisonment)",
+    "situation": "Written to combat false syncretic teachings in Colossae by establishing the supreme deity, preeminence, and sufficiency of Jesus Christ."
+  },
+  {
+    "bnumber": 52,
+    "bname": "1 Thessalonians",
+    "description": "1 Thessalonians encourages a young church amidst persecution, giving instruction on holy living and comfort regarding Christ's Second Coming.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 50–51 (from Corinth)",
+    "situation": "Written to encourage a newly established church facing persecution, instructing them in purity and offering hope regarding the Lord's return."
+  },
+  {
+    "bnumber": 53,
+    "bname": "2 Thessalonians",
+    "description": "2 Thessalonians corrects misunderstandings about the Day of the Lord, assuring believers that specific events must occur before Christ's return.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 51–52 (from Corinth)",
+    "situation": "Corrected false rumors that the Day of the Lord had already arrived, clarifying signs preceding Christ's return and urging disciplined living."
+  },
+  {
+    "bnumber": 54,
+    "bname": "1 Timothy",
+    "description": "1 Timothy provides pastoral instructions to young Timothy on church administration, leadership qualifications, sound doctrine, and combatting heresy.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 62–64",
+    "situation": "A pastoral letter instructing Timothy on church leadership qualifications, maintaining sound doctrine, and confronting false teachers in Ephesus."
+  },
+  {
+    "bnumber": 55,
+    "bname": "2 Timothy",
+    "description": "2 Timothy is Paul's final letter, written from a Roman dungeon, urging Timothy to remain faithful, endure hardship, and preach the Word boldy.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 66–67 (from a Roman dungeon before execution)",
+    "situation": "Paul's final farewell epistle, charging Timothy to remain steadfast in sound doctrine, endure persecution, and preach the Word faithfully."
+  },
+  {
+    "bnumber": 56,
+    "bname": "Titus",
+    "description": "Titus gives practical guidelines for organizing churches on Crete, appointing qualified elders, refuting false teachers, and promoting good works.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 62–64",
+    "situation": "Pastoral instructions for Titus to establish order in Cretan churches, appoint qualified elders, silence false teachers, and promote good works."
+  },
+  {
+    "bnumber": 57,
+    "bname": "Philemon",
+    "description": "Philemon is a personal appeal to a Christian slave owner to forgive and receive back Onesimus, a runaway slave who became a believer in Christ.",
+    "author": "Paul the Apostle",
+    "timeline": "c. AD 60–62 (from Roman imprisonment)",
+    "situation": "A personal request asking Philemon to forgive his runaway slave Onesimus, who had converted, and receive him back as a brother in Christ."
+  },
+  {
+    "bnumber": 58,
+    "bname": "Hebrews",
+    "description": "Hebrews demonstrates the ultimate superiority of Jesus Christ, His covenant, and His priesthood over the Mosaic Law, encouraging endurance.",
+    "author": "Anonymous (traditionally suggested to be Paul, Barnabas, Apollos, or Luke)",
+    "timeline": "c. AD 64–69 (before the fall of the Temple in AD 70)",
+    "situation": "Written to Jewish Christians tempting to revert to Judaism under persecution, proving Christ's sacrifice and priesthood are far superior."
+  },
+  {
+    "bnumber": 59,
+    "bname": "James",
+    "description": "James offers practical wisdom on living out genuine faith through good works, speech control, endurance in trials, and active obedience.",
+    "author": "James (brother of Jesus and leader of the Jerusalem church)",
+    "timeline": "c. AD 44–49",
+    "situation": "Written to scattered Jewish Christians, providing practical wisdom for enduring trials, controlling the tongue, avoiding favoritism, and proving faith through works."
+  },
+  {
+    "bnumber": 60,
+    "bname": "1 Peter",
+    "description": "1 Peter encourages suffering believers across Asia Minor to remain steadfast in grace, living holy lives modeled after Christ's example.",
+    "author": "Peter the Apostle",
+    "timeline": "c. AD 62–64 (from Rome)",
+    "situation": "Written to strengthen believers facing social hostility and persecution, urging them to stand firm in grace and mirror Christ in suffering."
+  },
+  {
+    "bnumber": 61,
+    "bname": "2 Peter",
+    "description": "2 Peter warns against deceptive false teachers, emphasizes spiritual growth, and affirms the certainty of Christ's return and final judgment.",
+    "author": "Peter the Apostle",
+    "timeline": "c. AD 65–67 (written shortly before martyrdom)",
+    "situation": "Peter's farewell letter warning churches against deceptive false teachers who mock Christ's return and promote immorality."
+  },
+  {
+    "bnumber": 62,
+    "bname": "1 John",
+    "description": "1 John combats proto-Gnostic heresies, emphasizing God's love, obedience to His commandments, and spiritual assurance for believers.",
+    "author": "John the Apostle",
+    "timeline": "c. AD 85–95 (from Ephesus)",
+    "situation": "Written to refute false teachings denying Christ's true incarnation, providing believers with tests of true doctrine, love, and spiritual assurance."
+  },
+  {
+    "bnumber": 63,
+    "bname": "2 John",
+    "description": "2 John warns a local house church to walk in truth and love while refusing hospitality to false teachers who deny the incarnation.",
+    "author": "John the Apostle",
+    "timeline": "c. AD 85–95 (from Ephesus)",
+    "situation": "Addressed to 'the elect lady and her children,' warning against granting hospitality or support to traveling false teachers."
+  },
+  {
+    "bnumber": 64,
+    "bname": "3 John",
+    "description": "3 John commends Gaius for his hospitality toward traveling Christian workers while rebuking Diotrephes for his proud, uncooperative behavior.",
+    "author": "John the Apostle",
+    "timeline": "c. AD 85–95 (from Ephesus)",
+    "situation": "A personal note praising Gaius for welcoming Christian missionaries while rebuking Diotrephes for rejecting apostolic authority."
+  },
+  {
+    "bnumber": 65,
+    "bname": "Jude",
+    "description": "Jude urges believers to earnestly contend for the faith against ungodly infiltrators who turn God's grace into a license for immorality.",
+    "author": "Jude (brother of Jesus and James)",
+    "timeline": "c. AD 65–80",
+    "situation": "An urgent letter exhorting Christians to contend for the faith against corrupt teachers who twisted God's grace into licentiousness."
+  },
+  {
+    "bnumber": 66,
+    "bname": "Revelation",
+    "description": "Revelation unveils apocalyptic visions of Christ's ultimate victory over evil, the culmination of history, and the hope of the new creation.",
+    "author": "John the Apostle",
+    "timeline": "c. AD 95 (written from exile on Patmos)",
+    "situation": "An apocalyptic message given to seven churches in Asia Minor facing Roman pressure, revealing Christ's victory and the new creation."
+  }
+]
